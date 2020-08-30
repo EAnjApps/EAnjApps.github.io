@@ -1,17 +1,12 @@
 {
     "randomize" : "true",
-    "admob_banner_enable" : "false",
+    "admob_banner_enable" : "true",
     "admob_inter_enable" : "true",
-    "fb_banner_enable" : "false",
-    "fb_native_banner_enable" : "false",
-    "fb_inter_enable" : "false",
-    "ad_unit_saver_i": "ca-app-pub-6561847712471614/6898902573",
-    "ad_unit_video_i": "ca-app-pub-6561847712471614/9307952802",
-    "ad_unit_photo_i": "ca-app-pub-6561847712471614/9008569905",
-    "ad_unit_player_i": "ca-app-pub-6561847712471614/4136858501",
-    "ad_unit_banner": "ca-app-pub-6561847712471614/3144831720",
-    "FACEBOOK_ADS_BANNER_PLACEMENT_ID": "611665612838731_611665662838726",
-    "FACEBOOK_ADS_INTERS_PLACEMENT_ID": "611665612838731_611665672838725",
-    "FACEBOOK_ADS_NATIVE_BANNER_PLACEMENT_ID": "611665612838731_611665666172059"
+    "ad_unit_inter": "ca-app-pub-3940256099942544/1033173712",
+    "ad_unit_banner": "ca-app-pub-3940256099942544/6300978111",
+    "fb_rect_enable" : "true",
+    "fb_inter_enable" : "true",
+    "FACEBOOK_ADS_INTERS_PLACEMENT_ID": "671828370209790_671849083541052",
+    "FACEBOOK_ADS_RECT_PLACEMENT_ID": "671828370209790_671829753542985"
     
 }
