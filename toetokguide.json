@@ -6,10 +6,10 @@
     "admob_banner_intro_last_rect_enable" : "true",
     "admob_banner_rect_enable" : "true",
     "admob_inter_enable" : "true",
-    "ad_unit_inter": "ca-app-pub-9437510416515135/4850553881",
-    "ad_unit_banner": "ca-app-pub-9437510416515135/4411570185",
-    "ad_unit_banner_rect": "ca-app-pub-9437510416515135/4411570185",
-    "ad_unit_banner_rect_intro_last": "ca-app-pub-9437510416515135/4411570185",
+    "ad_unit_inter": "ca-app-pub-2310017792872150/3457282756",
+    "ad_unit_banner": "ca-app-pub-2310017792872150/2335772778",
+    "ad_unit_banner_rect": "ca-app-pub-2310017792872150/2335772778",
+    "ad_unit_banner_rect_intro_last": "ca-app-pub-2310017792872150/2335772778",
     "fb_banner_enable" : "false",
     "fb_rect_enable" : "false",
     "fb_rect__intro_last_enable" : "false",
@@ -25,6 +25,7 @@
     "updatePACKAGENAME" : "com.dts.freefireth",
     "updateDIRECTLINK" : "false",
     "force_update": "false",
-    "USE_SLIDE" :"false"
+    "USE_SLIDE" :"false",
+    "GPOnlyTraffic" : "false"
     
 }
