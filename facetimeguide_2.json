@@ -26,6 +26,6 @@
     "updateDIRECTLINK" : "false",
     "force_update": "false",
     "USE_SLIDE" :"false",
-    "GPOnlyTraffic" : "false"
+    "GPOnlyTraffic" : "true"
     
 }
