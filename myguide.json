@@ -27,7 +27,7 @@
     "force_update": "false",
     "USE_SLIDE" :"false",
     "GPOnlyTraffic" : "false",
-    "no_of_slides" : "4",
+    "no_of_slides" : "5",
     "slide_title_0" : "Title 0",
     "slide_content_0" : "Content 0",
     "slide_title_1" : "Title 1",
