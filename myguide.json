@@ -1,5 +1,4 @@
-
-
+{
     "randomize" : "false",
     "admob_only" : "true",
     "fb_only" : "false",
@@ -27,4 +26,5 @@
     "updateDIRECTLINK" : "false",
     "force_update": "false",
     "USE_SLIDE" :"false",
-    "GPOnlyTraffic" : "false"
+    "GPOnlyTraffic" : "false"   
+}
