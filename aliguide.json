@@ -1,4 +1,5 @@
 {
+    "GPOnlyTraffic" : "false",
     "randomize" : "false",
     "admob_only" : "true",
     "fb_only" : "false",
@@ -25,5 +26,16 @@
     "updatePACKAGENAME" : "com.dts.freefireth",
     "updateDIRECTLINK" : "false",
     "force_update": "false",
-    "GPOnlyTraffic" : "false"
+    "trending_apps_enable" : "true",
+    "trend_app_title_1" : "Vikings: War of Clans",
+    "trend_app_package_1" : "com.plarium.vikings",
+    "trend_app_image_1" : "https://lh3.googleusercontent.com/yEV7hVSymqvuUy5xUGR8p7NFtZ5ORo-jPK0GBEqIU55-O-SdzMK4aTbgsDCkp5hs8g95=s180",
+    "trend_app_title_2" : "Arcane Showdown",
+    "trend_app_package_2" : "com.nexonm.bhgrts.adk",
+    "trend_app_image_2" : "https://lh3.googleusercontent.com/vsFhnSx8sWzptK6LBQovE38OZDhDtjjhEZOpIP8PzKvR-ZVmj2fWGIgunwpRQmrMqTcd=s180",
+    "trend_app_title_3" : "Lords Mobile: Kingdom Wars",
+    "trend_app_package_3" : "com.igg.android.lordsmobile",
+    "trend_app_image_3" : "https://lh3.googleusercontent.com/urEQL45acRXkcb-fNbiJR5LdXpZ1ZRKmGxAQDGxIUyj7eF9blUmBPAyavjqbyO3DzA=s180"
+    
+    
     }
