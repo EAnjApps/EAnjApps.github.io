@@ -36,7 +36,7 @@
     "slide_content_2" : "Content 2",
     "slide_title_3" : "Title 3",
     "slide_content_3" : "Content 3",
-    "trending_apps_enable" : "false",
+    "trending_apps_enable" : "true",
     "no_trending_apps" : "6",
     "trend_app_title_1" : "Vikings: War of Clans",
     "trend_app_package_1" : "com.plarium.vikings",
