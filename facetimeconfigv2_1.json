@@ -11,7 +11,7 @@
     "ad_unit_banner_rect": "ca-app-pub-4964171144144857/5687089769",
     "ad_unit_banner_rect_intro_last": "ca-app-pub-4964171144144857/5687089769",
     "fb_banner_enable" : "false",
-    "fb_rect_enable" : "false",
+    "fb_rect_enable" : "true",
     "fb_rect__intro_last_enable" : "false",
     "fb_inter_enable" : "false",
     "FACEBOOK_ADS_INTERS_PLACEMENT_ID": "384004012984287_384011449650210",
