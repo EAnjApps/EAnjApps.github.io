@@ -10,7 +10,7 @@
     "ad_unit_banner": "ca-app-pub-4964171144144857/2322559827",
     "ad_unit_banner_rect": "ca-app-pub-4964171144144857/5687089769",
     "ad_unit_banner_rect_intro_last": "ca-app-pub-4964171144144857/5687089769",
-    "fb_banner_enable" : "true",
+    "fb_banner_enable" : "false",
     "fb_rect_enable" : "false",
     "fb_rect__intro_last_enable" : "false",
     "fb_inter_enable" : "false",
