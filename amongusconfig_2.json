@@ -18,7 +18,7 @@
     "FACEBOOK_ADS_RECT_PLACEMENT_ID": "404379180963531_404602094274573",
     "FACEBOOK_ADS_RECT_INTRO_LAST_PLACEMENT_ID": "404379180963531_404602094274573",
     "FACEBOOK_ADS_BANNER_PLACEMENT_ID": "404379180963531_404600727608043",
-    "interstitial_step":"2",
+    "interstitial_step":"3",
     "update_active" : "false",
     "updateTITLE" : "Fall Guys - New Version",
     "updateMSG" : "Please Install NEW VERSION",
@@ -26,6 +26,6 @@
     "updateDIRECTLINK" : "false",
     "force_update": "false",
     "USE_SLIDE" :"false",
-    "GPOnlyTraffic" : "false"
+    "GPOnlyTraffic" : "true"
     
 }
