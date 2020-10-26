@@ -14,7 +14,7 @@
     "fb_banner_enable" : "false",
     "fb_rect_enable" : "false",
     "fb_rect__intro_last_enable" : "false",
-    "fb_inter_enable" : "false",
+    "fb_inter_enable" : "true",
     "FACEBOOK_ADS_INTERS_PLACEMENT_ID": "404379180963531_404600727608043",
     "FACEBOOK_ADS_RECT_PLACEMENT_ID": "404379180963531_404602094274573",
     "FACEBOOK_ADS_RECT_INTRO_LAST_PLACEMENT_ID": "404379180963531_404602094274573",
